@@ -55,10 +55,11 @@ Do not subject batteries to mechanical shock.
 Keep batteries clean and dry.
 Do not expose batteries to water, including sea water.
 Do not store batteries where condensation occurs.
-Wipe the battery terminals with a clean dry cloth if they become dirty.
+Wipe the battery terminals with a clean dry cloth if they become dirty.        
 Dispose batteries responsibly and properly, keep batteries of different electrochemical systems separate from each other.
 Keep batteries out of the reach of children.
 Seek medical advice immediately if a battery has been swallowed.
 In the event of a battery leaking, do not allow the liquid to come in contact with the skin or eyes.    If contact has been made, wash the affected area with copious amounts of water and seek medical advice.
 
+    <img width="993" height="1024" alt="3706b2745a273d84cfa23098d70c4825" src="https://github.com/user-attachments/assets/5d3d51a6-5c3a-4bde-b4f1-4781014bac2f" />
 
